@@ -1,0 +1,36 @@
+#main-box {
+    height:450px;
+    width: 450px;
+}
+
+#color-box-a {
+    height: 75px;
+    width: 450px;
+    background-color: #444444;
+}
+
+#color-box-b {
+    height: 375px;
+    width: 75px;
+    background-color: #d8d8d8;
+    float: left;
+}
+
+#color-box-c {
+    height: 375px;
+    width: 75px;
+    background-color: #d8d8d8;
+    float: right;
+}
+
+#color-box-d {
+    height: 335px;
+    width: 375px;
+    background-color: #efefef;
+}
+
+#color-box-e {
+    height: 40px;
+    width: 375px;
+    background-color: #222222;
+}
